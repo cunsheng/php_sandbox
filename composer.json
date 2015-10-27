@@ -1,0 +1,6 @@
+{
+    "name": "cunsheng/php_sandbox",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
